@@ -1,0 +1,16 @@
+{
+  
+"watchForFileChanges":true,
+
+    "viewportHeight":1000,
+    "viewportWidth":700,
+"defaultCommandTimeout":5000,
+    "pageLoadTimeout": 10000,
+    "video": true,
+"retries":{
+"runMode":2,
+"openMode":2
+}
+
+
+}

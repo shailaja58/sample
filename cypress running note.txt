@@ -1,0 +1,12 @@
+iCypress REtries
+If test fails then it will retry
+Global configuration
+Custom configuration
+
+Select all, control slash to comment all at once
+
+//npm run cy:viewport //to run individual file
+npm run cy:run
+
+Run mode - without launching browser
+Open mode - by launching browser
